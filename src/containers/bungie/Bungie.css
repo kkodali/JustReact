@@ -1,4 +1,8 @@
-.Bungie {
-    width: -webkit-fill-available;
-    height: -webkit-fill-available;
+.bungie {
+    width: -webkit-stretch;
+    height: -webkit-stretch;
+}
+.ea {
+    width: -webkit-stretch;
+    height: -webkit-stretch;
 }

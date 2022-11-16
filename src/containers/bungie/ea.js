@@ -5,7 +5,7 @@ export default class EA extends Component {
     render() {
         return (
             <div>
-                <iframe src="https://www.ea.com" className='Bungie'></iframe>
+                <iframe src="https://www.ea.com" className='ea' title="ea"></iframe>
             </div>
         );
     }

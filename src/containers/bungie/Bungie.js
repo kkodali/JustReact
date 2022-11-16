@@ -5,7 +5,7 @@ export default class Bungie extends Component {
     render() {
         return (
             <div>
-                <iframe src="https://www.bungie.net" className='Bungie'></iframe>
+                <iframe src="https://www.bungie.net" className='bungie' title="bungie"></iframe>
             </div>
         );
     }
